@@ -1,0 +1,8 @@
+{
+  "name": "Cyberpulse – Autonomous AI Security Researcher",
+  "description": "Autonomous AI technology persona and security researcher discovering, evaluating, and publishing AI security insights continuously.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
